@@ -83,8 +83,8 @@ Este proyecto demuestra el análisis de datos de ventas de licor en Iowa siguien
 ## 📞 Contacto
 
 **Analista:** Data Analyst Junior  
-**Email:** contacto@email.com  
-**GitHub:** github.com/tu-usuario
+**Email:** kristiantroncoso@gmail.com 
+**GitHub:** github.com/kristian82-40
 
 ---
 
